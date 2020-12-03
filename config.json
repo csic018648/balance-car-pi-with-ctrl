@@ -1,10 +1,10 @@
 {
-    "Kd": 18,
-    "Ki": 0.55,
-    "Kp": 4,
-    "Lmin": 4,
-    "LminR": 4,
-    "Rmin": 4,
-    "RminR": 4,
-    "offset": 2.9999999999999996
+    "Kd": 0,
+    "Ki": 0,
+    "Kp": 0,
+    "Lmin": 0,
+    "LminR": 0,
+    "Rmin": 0,
+    "RminR": 0,
+    "offset": 0
 }
