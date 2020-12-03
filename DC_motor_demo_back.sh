@@ -1,2 +1,1 @@
-cd DFRobot_RaspberryPi_Motor/raspberry/
 python3 DC_Motor_Demo_back.py
